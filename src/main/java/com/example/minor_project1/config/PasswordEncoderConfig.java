@@ -1,4 +1,4 @@
-package com.example.minor_project1.utils;
+package com.example.minor_project1.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

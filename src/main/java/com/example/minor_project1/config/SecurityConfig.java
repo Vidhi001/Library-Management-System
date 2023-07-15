@@ -1,6 +1,7 @@
-package com.example.minor_project1.utils;
+package com.example.minor_project1.config;
 
 import com.example.minor_project1.services.UserService;
+import com.example.minor_project1.utils.Constants;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.http.HttpMethod;

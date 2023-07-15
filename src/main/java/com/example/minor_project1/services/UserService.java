@@ -2,7 +2,7 @@ package com.example.minor_project1.services;
 
 import com.example.minor_project1.models.SecuredUser;
 import com.example.minor_project1.repository.UserRepository;
-import com.example.minor_project1.utils.PasswordEncoderConfig;
+import com.example.minor_project1.config.PasswordEncoderConfig;
 import com.example.minor_project1.utils.Utils;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.core.userdetails.UserDetails;
